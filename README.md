@@ -1,5 +1,14 @@
 # Cyclistic-Case-Study
 
+# Table of Contents
+
+1. [Company Overview](README.md#Company-Overview)
+2. [Project Objective](README.md#business-task)
+3. [Scenario](README.md#scenario)
+4. [Processing and Cleaning](README.md#processing-and-cleaning)
+5. [Analysis and Viz](README.md#analysis-and-viz)
+6. [Observations](README.md#observations)
+
 # Company Overview
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
@@ -48,10 +57,11 @@ Three questions will guide the future marketing program:
 
 
 
+# Observations
+A common observation is that casual riders are using the bike rentals for leisure and tourism purposes while annual members use it predominantly for commuting purposes.
 
 
-
-# Act
+# Plan of Action & Recommendations
 Now that  the disparities between casual and member riders have been recognized and tailored, marketing strategies can be devised to effectively convert casual riders into members.
 
 - Timing of Marketing Campaigns: Targeted marketing campaigns can be scheduled during the spring and summer seasons, focusing on tourist and recreational locations that are popular among casual riders.
