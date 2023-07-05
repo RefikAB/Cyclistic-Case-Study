@@ -59,7 +59,7 @@ Three questions will guide the future marketing program:
 
 # Observations
 A common observation is that casual riders are using the bike rentals for leisure and tourism purposes while annual members use it predominantly for commuting purposes.
-
+![image](https://raw.githubusercontent.com/RefikAB/Cyclistic-Case-Study/main/HourlybarGraph.PNG)
 
 # Plan of Action & Recommendations
 Now that  the disparities between casual and member riders have been recognized and tailored, marketing strategies can be devised to effectively convert casual riders into members.
