@@ -52,6 +52,10 @@ Three questions will guide the future marketing program:
 
 # Clean and Process Data
 
+**The cleaning process involved:**
+Identifying missing start and end station names using the following query.
+Verifying other columns using the following query.
+Identifying negative and zero ride duration values using the following query.
 
 
 
@@ -60,6 +64,12 @@ Three questions will guide the future marketing program:
 # Observations
 A common observation is that casual riders are using the bike rentals for leisure and tourism purposes while annual members use it predominantly for commuting purposes.
 ![image](https://raw.githubusercontent.com/RefikAB/Cyclistic-Case-Study/main/HourlybarGraph.PNG)
+
+
+![image](https://raw.githubusercontent.com/RefikAB/Cyclistic-Case-Study/main/duration%26distance.PNG)
+
+
+![image](https://raw.githubusercontent.com/RefikAB/Cyclistic-Case-Study/main/seasonBarGraph.PNG)
 
 # Plan of Action & Recommendations
 Now that  the disparities between casual and member riders have been recognized and tailored, marketing strategies can be devised to effectively convert casual riders into members.
