@@ -53,9 +53,12 @@ Three questions will guide the future marketing program:
 # Clean and Process Data
 
 **The cleaning process involved:**
-Identifying missing start and end station names using the following query.
-Verifying other columns using the following query.
-Identifying negative and zero ride duration values using the following query.
+
+- Identifying missing start and end station names using the following query.
+
+- Verifying other columns using the following query.
+
+- Identifying negative and zero ride duration values using the following query.
 
 
 
