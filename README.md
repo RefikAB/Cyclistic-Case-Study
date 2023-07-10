@@ -68,17 +68,17 @@ Three questions will guide the future marketing program:
 A common observation is that casual riders are using the bike rentals for leisure and tourism purposes while annual members use it predominantly for commuting purposes.
 ![image](https://raw.githubusercontent.com/RefikAB/Cyclistic-Case-Study/main/HourlybarGraph.PNG)
 
-
+In the following graph, it shows that annual members tend to take shorter - duration bike rides and casual riders tend to use bikes for slightly longer while traveling less distance. Because of this we can infer that annual members use the bikes to commute to and from work as well as using bikes as an alternative to driving.
 ![image](https://raw.githubusercontent.com/RefikAB/Cyclistic-Case-Study/main/duration%26distance.PNG)
 
-
+![image](https://github.com/RefikAB/Cyclistic-Case-Study/blob/main/member%26casualTrends.png)
 ![image](https://raw.githubusercontent.com/RefikAB/Cyclistic-Case-Study/main/seasonBarGraph.PNG)
 
 # Plan of Action & Recommendations
 Now that  the disparities between casual and member riders have been recognized and tailored, marketing strategies can be devised to effectively convert casual riders into members.
 
-- Timing of Marketing Campaigns: Targeted marketing campaigns can be scheduled during the spring and summer seasons, focusing on tourist and recreational locations that are popular among casual riders.
+- **Timing of Marketing Campaigns:** Targeted marketing campaigns can be scheduled during the spring and summer seasons, focusing on tourist and recreational locations that are popular among casual riders.
   
-- Seasonal and Weekend Memberships: Recognizing that casual riders are most active on weekends and during the summer and spring, offering seasonal or weekend-only memberships can cater to their specific preferences and increase their likelihood of becoming members.
+- **Seasonal and Weekend Memberships:** Recognizing that casual riders are most active on weekends and during the summer and spring, offering seasonal or weekend-only memberships can cater to their specific preferences and increase their likelihood of becoming members.
   
-- Promoting Longer Rides: Since casual riders tend to use their bikes for longer durations compared to members, incentivizing them with discounts for longer rides can serve as a powerful motivator. Additionally, this approach may also encourage existing members to extend their riding durations, further enhancing their engagement with the platform.
+- **Promoting Longer Rides:** Since casual riders tend to use their bikes for longer durations compared to members, incentivizing them with discounts for longer rides can serve as a powerful motivator. Additionally, this approach may also encourage existing members to extend their riding durations, further enhancing their engagement with the platform.
