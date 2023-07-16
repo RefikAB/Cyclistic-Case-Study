@@ -49,7 +49,9 @@ Three questions will guide the future marketing program:
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 # Prepare
+I will utilize Cyclistic's historical trip data from Jan 2022 to Dec 2022, which is accessible for download from divvy_tripdata. The dataset has been provided by Motivate International Inc. under a specific license agreement.
 
+This publicly available data allows for analysis and identification of trends regarding the usage of Cyclistic bikes by various customer types. However, it is important to note that data privacy concerns prevent the usage of personally identifiable information of riders. Consequently, we cannot establish connections between pass purchases and credit card numbers to determine if casual riders reside in the Cyclistic service area or if they have bought multiple single passes.
 # Clean and Process Data
 
 **The cleaning process involved:**
@@ -60,7 +62,9 @@ Three questions will guide the future marketing program:
 
 - Identifying negative and zero ride duration values using the following query.
 
-
+**Data Snippet**
+This is what the data looks like. (Pre Cleaning)
+![image](https://github.com/RefikAB/Cyclistic-Case-Study/blob/main/Rider%20Data%20for%20Cleaning.png)
 
 
 
