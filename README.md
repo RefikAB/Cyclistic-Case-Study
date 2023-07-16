@@ -69,6 +69,7 @@ This is what the data looks like. (Pre Cleaning)
 
 
 # Observations
+1. How do annual members and casual riders use Cyclistic bikes differently?
 A common observation is that casual riders are using the bike rentals for leisure and tourism purposes while annual members use it predominantly for commuting purposes.
 ![image](https://raw.githubusercontent.com/RefikAB/Cyclistic-Case-Study/main/HourlybarGraph.PNG)
 
