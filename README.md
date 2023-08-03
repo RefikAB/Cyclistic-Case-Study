@@ -79,6 +79,13 @@ In the following graph, it shows that annual members tend to take shorter - dura
 ![image](https://github.com/RefikAB/Cyclistic-Case-Study/blob/main/member%26casualTrends.png)
 ![image](https://raw.githubusercontent.com/RefikAB/Cyclistic-Case-Study/main/seasonBarGraph.PNG)
 
+**Next Steps**
+Moving forward, there are some things I think Cyclystic should do if they want to convert casual riders into annual members.
+
+- Direct marketing efforts toward engaging users during the winter months.
+- Encourage more community building events (i.e. group rides) during weekdays to engage those who have historically only ridden on the weekends.
+- Expand geographical limits of the fleet to include more neighborhoods in the surrounding downtown area.
+
 # Plan of Action & Recommendations
 Now that  the disparities between casual and member riders have been recognized and tailored, marketing strategies can be devised to effectively convert casual riders into members.
 
