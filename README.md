@@ -8,7 +8,7 @@
 4. [Processing and Cleaning](README.md#processing-and-cleaning)
 5. [Analysis and Viz](README.md#analysis-and-viz)
 6. [Observations](README.md#observations)
-
+ 
 # Company Overview
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
