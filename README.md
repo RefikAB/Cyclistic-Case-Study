@@ -1,4 +1,4 @@
-# Cyclistic-Case-Study
+# Business Analyst-Case-Study
 
 # Table of Contents
 
